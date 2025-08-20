@@ -7,7 +7,7 @@ Users enter their phone number on our login page to receive a one-time password 
 Consent is explicitly given when the user presses **"Send code"**.
 
 ### Screenshot
-![Phone login screenshot](docs/optin-screenshot.png)
+<img width="847" height="244" alt="Screenshot 2025-08-19 at 11 01 52 PM" src="https://github.com/user-attachments/assets/0b0612bb-062d-41e4-8414-05dcf1f91fe9" />
 
 ### Program description
 This toll-free number is used **only** for transactional messages:
