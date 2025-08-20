@@ -26,5 +26,5 @@ Frequency depends on login attempts. Message & data rates may apply.
 
 ### Contact
 Jumbo Kitchen  
-Website: https://statuesque-mochi-3453af.netlify.app  
-Support: ajiang6760@gmail.com
+Website: https://jumbokitchen.com
+Support: jennyhewfg@gmail.com
