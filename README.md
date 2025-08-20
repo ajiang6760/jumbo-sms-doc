@@ -1,1 +1,30 @@
-# jumbo-sms-doc
+# Jumbo Kitchen
+
+## SMS Opt-In (OTP Verification Only)
+
+### How users opt in
+Users enter their phone number on our login page to receive a one-time password (OTP) for authentication.  
+Consent is explicitly given when the user presses **"Send code"**.
+
+### Screenshot
+![Phone login screenshot](docs/optin-screenshot.png)
+
+### Program description
+This toll-free number is used **only** for transactional messages:
+- Sending OTPs for account sign-in
+- Confirming login attempts (if applicable)
+
+**We do not send marketing or promotional SMS.**  
+Messages are sent only in response to user actions.
+
+### Opt-out / help keywords
+- Reply **STOP** to stop receiving OTPs.
+- Reply **HELP** for assistance.
+
+### Message frequency & fees
+Frequency depends on login attempts. Message & data rates may apply.
+
+### Contact
+Jumbo Kitchen  
+Website: https://statuesque-mochi-3453af.netlify.app  
+Support: ajiang6760@gmail.com
